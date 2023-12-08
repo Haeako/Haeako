@@ -1,5 +1,5 @@
 ## About Me:
-•I'm 17, a rookie. <br> •Students at the University of Information Technology, VNU-HCM.<br> more commit, more pain.
+•I'm 17, a rookie. <br> •Students at the University of Information Technology, VNU-HCM.<br> more commits, more pain.
 
 # Social:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Haeako) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-viet-thien-nhan-018b361b1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ruarong51pb2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Haeako)
