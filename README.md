@@ -11,7 +11,6 @@
 <br/>
   -------------------------------------------------------------------------------------------------------- 
   <br> ᑎIᑕE TO ᗰEET YOᑌ <br>
-  <img src='https://media.tenor.com/IAkYWBFYtX8AAAAd/elf-nonsense-elf.gif' style="height: 400px;"/>
 </p>
 
 <!--
