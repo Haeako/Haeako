@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Thien Nhan
 
-**Computer Science Student @ UIT - VNUHCM**
+**Computer Engineering Student @ UIT - VNUHCM**
 
 I enjoy building intelligent robotic systems that combine **AI, Computer Vision, Embedded Systems, and Robotics**. My interests include autonomous navigation, edge AI deployment, robot perception, and embodied intelligence.
 
