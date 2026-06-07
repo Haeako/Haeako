@@ -6,15 +6,14 @@ I enjoy building intelligent robotic systems that combine **AI, Computer Vision,
 
 ---
 
-## 🔬 Current Interests
-
-* 🤖 Mobile Robotics
-* 🦾 Legged Robots
-* 📷 Computer Vision
-* 🧠 Edge AI
-* 🚗 Autonomous Navigation
-* 🔊 Keyword Spotting
-* ⚡ Embedded Systems
+## 🔬 Interests
+- 🤖 Robotics
+- 🦾 Robot Kinematics & Control
+- 📷 Computer Vision & Edge AI
+- 🧠 Internet of Things (IoT)
+- 🚗 Autonomous Systems
+- 🔊 Signal Processing
+- ⚡ Embedded Systems
 
 ---
 
@@ -45,7 +44,7 @@ I enjoy building intelligent robotic systems that combine **AI, Computer Vision,
 * Embedded Control
 
 ### 🎥 DeepStream Edge AI Pipeline
-
+* Embedded Linux
 * TensorRT
 * CUDA
 * Multi-camera inference
