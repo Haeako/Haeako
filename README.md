@@ -1,19 +1,97 @@
-## About Me:
-• A rookie.
+# Hi there 👋 I'm Thien Nhan
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nnvt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruarong51pb2@gmail.com) 
+**Computer Science Student @ UIT - VNUHCM**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
----------------------------------------------------------------------------------------------- 
-  <br> ᑎIᑕE TO ᗰEET YOᑌ <br>
-</p>
+I enjoy building intelligent robotic systems that combine **AI, Computer Vision, Embedded Systems, and Robotics**. My interests include autonomous navigation, edge AI deployment, robot perception, and embodied intelligence.
 
-<!--
-**Haeako/Haeako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-<!---
-Haeako/Haeako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔬 Current Interests
+
+* 🤖 Mobile Robotics
+* 🦾 Legged Robots
+* 📷 Computer Vision
+* 🧠 Edge AI
+* 🚗 Autonomous Navigation
+* 🔊 Keyword Spotting
+* ⚡ Embedded Systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Ohmni Autonomous Navigation
+
+* ROS Navigation Stack
+* Gmapping + AMCL
+* 2D LiDAR SLAM
+* Path Planning
+* FreeCAD LiDAR Mount
+
+### 🐶 SpotMicro-Inspired Quadruped
+
+* ROS Motion Control
+* Raspberry Pi
+* 3D Printing
+* TensorFlow Lite Keyword Spotting
+* Genesis RL Simulation
+
+### ⚖️ Two-Wheel Self-Balancing Robot
+
+* STM32
+* PID Control
+* IMU Fusion
+* Kalman Filter
+* Embedded Control
+
+### 🎥 DeepStream Edge AI Pipeline
+
+* TensorRT
+* CUDA
+* Multi-camera inference
+* Telegram Notification
+* NVIDIA Jetson
+
+---
+
+## 📚 Publications
+
+* **SOICT 2024**
+
+  * *Unveiling Peripheral Information: A Context-Aware Video Retrieval Approach*
+
+* **Springer CITA 2025**
+
+  * *A Two-Stage Refinement Framework for Robust Vehicle Detection in Traffic Surveillance*
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+`Python` `C` `C++`
+
+**AI**
+
+`PyTorch` `TensorFlow Lite` `OpenCV` `TensorRT`
+
+**Robotics**
+
+`ROS` `LiDAR` `STM32` `ESP32` `Raspberry Pi`
+
+**Tools**
+
+`CUDA` `Docker` `Linux` `Git` `FreeCAD`
+
+---
+
+## 🌐 Connect
+
+* GitHub: https://github.com/Haeako
+* LinkedIn: https://www.linkedin.com/in/nnvt/
+* ORCID: https://orcid.org/0009-0000-7068-6798
+
+---
+
+> *"I love building robots more than talking about them."*
